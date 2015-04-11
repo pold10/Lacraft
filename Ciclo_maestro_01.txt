@@ -12,8 +12,8 @@ no podemos adelantar o retrasar alguna de las fases.
 
 2) Desarrollo de Concepto: Definir el alcance del proyecto.
   Aqui debemos realizar un documento de limite del proyecto,
-  que en el fondo es la respuesta a la pregunta ¿Hasta donde queremos llegar?
-  ¿Es posible realizar esto?
+  que en el fondo es la respuesta a la preguntas ¿Que queremos lograr?
+  ¿Hasta donde queremos llegar? ¿Es posible realizar esto?
   
 3) Plan: Idear y estructurar un plan de desarrollo
   Debemos proveer la base para el desarrollo del proyecto, osea,
