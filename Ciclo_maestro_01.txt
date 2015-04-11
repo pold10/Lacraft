@@ -32,4 +32,4 @@ no podemos adelantar o retrasar alguna de las fases.
   diseñamos en el fondo como va a ser el juego y documentar todo esto para poder utilizarlo
   en la fase de desarrollo.
   
-6) 
+6) asd
