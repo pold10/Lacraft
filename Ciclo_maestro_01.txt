@@ -28,8 +28,26 @@ no podemos adelantar o retrasar alguna de las fases.
   desarrollar.
   
 5) Diseño (el COMO): Transformar los requerimientos (necesidades) a un texto detallado
-  de diseño que está enfocado en COMO entregar la funcionalidad requerida. Aqui es donde
-  diseñamos en el fondo como va a ser el juego y documentar todo esto para poder utilizarlo
+  de diseño que está enfocado en COMO entregar la funcionalidad requerida. Incluye analizar
+  los problemas, diseñar las equaciones matematicas, idear y escribir las mecanicas de juego.
+  Diseñamos en el fondo como va a ser el juego y documentar todo esto para poder utilizarlo
   en la fase de desarrollo.
   
-6) asd
+6) Desarrollo: Realizar el diseño.
+	Incluye crear el codigo y bases de dato a partir de las especificaciones de diseño.
+	Tambien se crean los graficos y la GUI.
+	
+7) Pruebas: Demostraciones y versiones beta.
+	Se prueba el codigo compilado en la plataforma final y se detecta errores y/o
+	desbalances en el engine.
+
+8) Refinamiento: Paso final antes de la publicación. Se prueba el producto final y 
+	se prepara una version 1.0
+
+9) Publicación: Ejecución al publico.
+	Se aplica o libera el juego al mercado. Este paso incluye campañas de marketing
+	y distribuición.
+
+10) Mantención: Corrección y balance.
+	Similar a las pruebas pero se aplica en forma de parches que no cambian el nucleo
+	del producto.
