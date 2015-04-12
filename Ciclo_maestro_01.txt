@@ -15,17 +15,18 @@ no podemos adelantar o retrasar alguna de las fases.
   que en el fondo es la respuesta a la preguntas ¿Que queremos lograr?
   ¿Hasta donde queremos llegar? ¿Es posible realizar esto?
   
-3) Plan: Idear y estructurar un plan de desarrollo
-  Debemos proveer la base para el desarrollo del proyecto, osea,
-  dar un plan de que partes debemos hacer y cuando. Sopesar prioridades,
-  etc.. A mi parecer ya estamos en esta etapa (11/Abril/15)
 
-4) Analisis de requerimientos (el que): Ver la necesidad del usuario.
+3) Analisis de requerimientos (el que): Ver la necesidad del usuario.
   En el fondo aqui es donde vemos que es lo que hace que los cabros chicos
   se vuelvan adictos a un juego e identificar las multiples ideas que tienen
   los juegos exitosos para poder aplicarlos en el diseño de la aplicación.
   En este caso estariamos viendo y en el fondo ideando que tipo de juego queremos
   desarrollar.
+
+4) Plan: Idear y estructurar un plan de desarrollo
+  Debemos proveer la base para el desarrollo del proyecto, osea,
+  dar un plan de que partes debemos hacer y cuando. Sopesar prioridades,
+  etc.. A mi parecer ya estamos en esta etapa (11/Abril/15)
   
 5) Diseño (el COMO): Transformar los requerimientos (necesidades) a un texto detallado
   de diseño que está enfocado en COMO entregar la funcionalidad requerida. Incluye analizar
